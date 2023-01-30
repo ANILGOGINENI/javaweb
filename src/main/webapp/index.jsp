@@ -7,6 +7,11 @@
         font-size: 250%;
 
         }
+        
+        h2{
+            font-size:20
+                color:green
+        }
         /* unvisited link */
 a:link {
   color: red;
