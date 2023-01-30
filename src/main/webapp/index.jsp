@@ -9,8 +9,8 @@
         }
         
         h2{
-            font-size:20
-                color:green
+            font-size:20;
+                color:green;
         }
         /* unvisited link */
 a:link {
