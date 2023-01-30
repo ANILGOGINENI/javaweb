@@ -31,6 +31,7 @@ a {
 
 img:hover {
   opacity: 3.0;
+  align:center;
 }
 </style>
 </head>
