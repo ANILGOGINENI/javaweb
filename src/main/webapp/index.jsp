@@ -26,6 +26,7 @@ a {
 }
   
 img {
+  display: inline;
   margin-left: auto;
   margin-right: auto;
   }
