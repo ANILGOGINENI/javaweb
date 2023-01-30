@@ -42,6 +42,7 @@ img:hover {
   <a target="_blank" href="tryit.asp?filename=trycss_text">"Try it Yourself"</a> link.</p>
   
   <h1> JAI BALAYYA..............</h1>
+  <h1>Ajay Gogineni </h1>
   
 <h1>Image Transparency</h1>
 <p>The opacity property is often used together with the :hover selector to change the opacity on mouse-over:</p>
