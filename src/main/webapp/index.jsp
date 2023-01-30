@@ -25,14 +25,11 @@ a {
   color: #008CBA;
 }
   
-  img {
-  opacity: 1.5;
-}
-
-img:hover {
-  opacity: 3.0;
-  align:center;
-}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
 </style>
 </head>
 <body>
