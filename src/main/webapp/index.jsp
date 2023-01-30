@@ -45,9 +45,9 @@ img:hover {
   
 <h1>Image Transparency</h1>
 <p>The opacity property is often used together with the :hover selector to change the opacity on mouse-over:</p>
-<img src="img_forest.jpg" alt="Forest" width="170" height="100">
-<img src="img_mountains.jpg" alt="Mountains" width="170" height="100">
-<img src="img_5terre.jpg" alt="Italy" width="170" height="100">
+<img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/5D53/production/_128319832_rrr.jpg" alt="Forest" width="170" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Telugu_Desam_Party_Flag.png" alt="Mountains" width="170" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Love_TV_Logo.png/250px-Love_TV_Logo.png" alt="Italy" width="170" height="100">
 </div>
 
 </body>
